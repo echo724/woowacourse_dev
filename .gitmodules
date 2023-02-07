@@ -1,8 +1,0 @@
-[submodule "java-onboarding"]
-	path = java-onboarding
-	url = https://github.com/echo724/java-onboarding.git
-	branch = echo724
-[submodule "java-racingcar"]
-	path = java-racingcar
-	url = https://github.com/echo724/java-racingcar.git
-	branch = echo724
