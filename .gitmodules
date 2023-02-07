@@ -1,0 +1,4 @@
+[submodule "java-racingcar"]
+	path = java-racingcar
+	url = https://github.com/echo724/java-racingcar
+	branch = echo724
